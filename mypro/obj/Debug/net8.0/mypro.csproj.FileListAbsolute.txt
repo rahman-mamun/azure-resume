@@ -1,0 +1,15 @@
+/Users/rahman/Desktop/azure-resume/mypro/bin/Debug/net8.0/mypro
+/Users/rahman/Desktop/azure-resume/mypro/bin/Debug/net8.0/mypro.deps.json
+/Users/rahman/Desktop/azure-resume/mypro/bin/Debug/net8.0/mypro.runtimeconfig.json
+/Users/rahman/Desktop/azure-resume/mypro/bin/Debug/net8.0/mypro.dll
+/Users/rahman/Desktop/azure-resume/mypro/bin/Debug/net8.0/mypro.pdb
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.AssemblyInfoInputs.cache
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.AssemblyInfo.cs
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.csproj.CoreCompileInputs.cache
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.sourcelink.json
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.dll
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/refint/mypro.dll
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.pdb
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/mypro.genruntimeconfig.cache
+/Users/rahman/Desktop/azure-resume/mypro/obj/Debug/net8.0/ref/mypro.dll

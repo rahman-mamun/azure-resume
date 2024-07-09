@@ -1,0 +1,15 @@
+/Users/rahman/Desktop/azure-resume/MyApp/bin/Debug/net8.0/MyApp
+/Users/rahman/Desktop/azure-resume/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/rahman/Desktop/azure-resume/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/rahman/Desktop/azure-resume/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/rahman/Desktop/azure-resume/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/rahman/Desktop/azure-resume/MyApp/obj/Debug/net8.0/ref/MyApp.dll
